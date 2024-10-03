@@ -13,7 +13,7 @@ This script logs the world-space head positions of all bones in the active armat
 
 ## Notes
 - The output filename includes a timestamp in ISO 8601 format.
-- - Example output:
+- Example output:
   ```csv
   Bone Name,X,Y,Z
   Bone_001,-2.7997015422442928e-05,2.7966068955720402e-05,29.338661193847656
